@@ -11,7 +11,7 @@ Hey, I'm Arman 👋
 
 I work on the backend and network side of things, the stuff that has to keep running at 3am when nobody's watching. I also can't leave closed software alone. If I don't know how something works, it's ending up in a disassembler.
 
-Powered by an honestly concerning amount of coffee ☕. Off the clock I'm usually in ranked 🎮, losing and blaming the netcode. Occupational hazard.
+Powered by an honestly concerning amount of coffee ☕. Off the clock I'm usually in ranked 🎮.
 
 <br>
 
